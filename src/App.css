@@ -1,0 +1,7 @@
+body {
+  background-color: #cccccc;
+}
+
+.panel--rounded-border {
+  border-radius: 2rem;
+}

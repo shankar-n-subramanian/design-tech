@@ -1,0 +1,28 @@
+.section-header {
+    color: #222222;
+    font-weight: bold;
+}
+
+.table--rounded-border .spark-table__scroll {
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+}
+
+.table--rounded-border table {
+  border-bottom-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  margin-bottom: 1rem;
+}
+
+.table--rounded-border table td.sales-total-label, .table--rounded-border table td.sales-total-amount {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.table--rounded-border table td.sales-total-label {
+    text-align: left;
+}
+
+.table--rounded-border table td.sales-total-amount {
+    text-align: right;
+}
